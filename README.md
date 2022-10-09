@@ -1,2 +1,2 @@
 # Business-Analysis
-Data analytics and Cases for Business Problem Solution
+비즈니스 문제 해결을 위한 데이터 분석 및 사례 연구
